@@ -29,7 +29,7 @@
   "dependencies": {
     "memoryjs": "github:zwfthcks/memoryjs",
     "node-fetch": "^2.6.7",
-    "semver": "^7.3.7"
+    "semver": "^7.3.8"
   },
   "devDependencies": {
     "ansi-escapes": "4.3.2"
