@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "memoryjs": "github:zwfthcks/memoryjs",
-    "node-fetch": "^2.6.11",
+    "node-fetch": "^2.6.12",
     "platform-paths": "^1.2.2",
     "semver": "^7.5.1"
   },
