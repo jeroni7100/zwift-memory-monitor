@@ -37,6 +37,6 @@
     "semver": "^7.6.2"
   },
   "devDependencies": {
-    "ansi-escapes": "4.3.2"
+    "ansi-escapes": "7.0.0"
   }
 }
